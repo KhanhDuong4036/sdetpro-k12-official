@@ -1,6 +1,6 @@
 package lab03;
 
-public class lab031 {
+public class Lab031 {
     public static void main(String[] args) {
         int[] intArr = {1, 2, 3, 4, 5};
 

@@ -2,7 +2,7 @@ package lab02;
 
 import java.util.Scanner;
 
-public class lab022 {
+public class Lab022 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter your number: ");

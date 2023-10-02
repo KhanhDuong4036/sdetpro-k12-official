@@ -1,6 +1,6 @@
 package lab03;
 
-public class lab032 {
+public class Lab032 {
     public static void main(String[] args) {
         int[] intArr = {1, 2, 3, 4, 5};
         int min = intArr[0];

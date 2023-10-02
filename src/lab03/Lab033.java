@@ -1,7 +1,7 @@
 package lab03;
 
 
-public class lab033 {
+public class Lab033 {
     public static void main(String[] args) {
         int[] intArr = {12, 34, 1, 16, 28};
         int temp;
