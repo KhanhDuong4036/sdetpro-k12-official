@@ -1,4 +1,4 @@
-package lession03;
+package lesson03;
 
 public class FlowControlKeyword {
     public static void main(String[] args) {

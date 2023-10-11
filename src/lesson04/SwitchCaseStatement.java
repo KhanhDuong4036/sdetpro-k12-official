@@ -1,8 +1,8 @@
-package lession04;
+package lesson04;
 
 import java.util.Scanner;
 
-public class SwitchCaseWithoutBreak {
+public class SwitchCaseStatement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please input your number: ");
@@ -10,12 +10,14 @@ public class SwitchCaseWithoutBreak {
 
         switch (userNumber){
             case 1:
+                System.out.println("Giai nhat");
+                break;
             case 2:
+                System.out.println("Giai nhi");
+                break;
             case 3:
-            case 4:
-            case 5:
-            case 6:
-            case 7:
+                System.out.println("Giai ba");
+                break;
             default:
                 System.out.println("Thank you!!!");
 

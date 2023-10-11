@@ -1,4 +1,4 @@
-package lession04;
+package lesson04;
 
 import java.security.SecureRandom;
 import java.util.Scanner;
